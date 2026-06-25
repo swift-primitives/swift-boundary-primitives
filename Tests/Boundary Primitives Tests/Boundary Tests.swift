@@ -1,8 +1,7 @@
 // Boundary Tests.swift
 
-import Testing
-
 import Boundary_Primitives
+import Testing
 
 // MARK: - Boundary.Edge
 
